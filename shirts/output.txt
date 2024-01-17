@@ -1,0 +1,2 @@
+Before defining closure: [1, 2, 3]
+From thread: [1, 2, 3]
